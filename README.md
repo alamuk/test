@@ -1,2 +1,2 @@
 # test
-test rep
+test rep for command
